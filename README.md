@@ -1,4 +1,4 @@
-![logo](https://github.com/ysabhishekmishra/ysabhishekmishra/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+![logo](https://github.com/ysabhishekmishra/ysabhishekmishra/blob/main/banner.png)
 <h1 align="center">Hello Everyone Welcome You 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">😎 I'm A Full Stack😉 Developer And Software Developer Enthusiast. I Hail From Mumbai, India. I'm Currently A Third Year Student At 🎓 Thakur college of Engineering and Technology Pursuing B.E/B.Tech In 🧑‍💻 Information Technology(IT). ⚡</h3>
 
