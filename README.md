@@ -1,6 +1,7 @@
 ![logo](https://github.com/ysabhishekmishra/ysabhishekmishra/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
-<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello Everyone Welcome You 👋, I'm Abhishek Mishra</h1>
+<h3 align="center">😎 I'm A Full Stack😉 Developer And Software Developer Enthusiast. I Hail From Mumbai, India. I'm Currently A Third Year Student At 🎓 Thakur college of Engineering and Technology Pursuing B.E/B.Tech In 🧑‍💻 Information Technology(IT). ⚡</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
