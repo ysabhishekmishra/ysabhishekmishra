@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysabhishekmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ysabhishekmishra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysabhishekmishra" alt="ysabhishekmishra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ysabhishekmish2" target="blank"><img src="https://img.shields.io/twitter/follow/ysabhishekmish2?logo=twitter&style=for-the-badge" alt="ysabhishekmish2" /></a> </p>
+img align="right" alt="Coding" width="400" src="http">
 
 - 🌱 I’m currently learning **React**
 
